@@ -11,9 +11,9 @@
 pip install streamlit
 pip install langchain
 ```
-Set up your OpenAI API key and Unsplash API key:
-Create a file named secret.py in the project directory.
-Add your OpenAI API key and Unsplash API key to secret.py:
+- Set up your OpenAI API key and Unsplash API key:
+- Create a file named secret.py in the project directory.
+- Add your OpenAI API key and Unsplash API key to secret.py:
 ```python
 
 OPENAIKEY = 'your_openai_api_key'
